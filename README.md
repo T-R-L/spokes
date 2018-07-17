@@ -9,7 +9,7 @@ Core Features:
 * Map hazards (potholes, parked cars, construction, etc.) along bike routes based on user input (voice / manual input)
 * Warn cyclist as they approach hazards with a combination of on-screen and/or audio cues
 
-## Stretch Features: 
+Stretch Features: 
 
 * Add additional bike route directions based on available designated bike paths, fewest left turns
 * Add user account features (link to Google/FB/other social media accounts) such as favourite routes, history of destinations, etc.
